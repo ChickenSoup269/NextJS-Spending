@@ -31,6 +31,8 @@
 - Xem chi tiêu: ngày, tuần, tháng, năm
 - Xem chi tiết: sẽ có biểu đồ tùy thuộc vào tuần, tháng, năm sẽ có các biểu đồ chi tiếu
 
+---
+ 
 - `Tuần`: sẽ show ra các so sánh cao hơn hoặc thấp hơn bao nhiêu so với tuần trước và show ngày chi tiêu cụ thể và có các biểu đồ
   -> **VD:**
   -> Hiển thị các tuần chi tiêu có thể xem các tuần cũ
