@@ -49,3 +49,15 @@
 - `Năm`: sẽ show ra các so sánh cao hơn hoặc thấp hơn bao nhiêu so với năm trước chi tiêu của tất cả 12 tháng bao gồm cả ngày chi tiêu
   -> **VD:** thứ mấy - ngày - tháng: chi tiêu bao nhiêu
   -> Hiển thị các năm chi tiêu có thể xem các năm cũ
+
+
+---
+- CHức năng chính
+ + Gửi mail khi đến tháng so sánh chi tiêu tháng này có gì khác với tháng trước
+ + Nếu là lần đầu thì gửi chi tiêu tổng tháng
+
++ Nhập thông tin chi tiêu có phần chụp ảnh hóa đơn
++ Thêm liên tục 
++ Thêm từ từ 
++ Thêm chức năng scan bằng camera cho hóa đơn và in ra
+  
