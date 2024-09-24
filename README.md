@@ -1,6 +1,6 @@
 <div align="center">
 
-# NEXT JS - SPENDING
+# NEXT JS - SPENDING - (In Development)
 
 [![Generic badge](https://img.shields.io/badge/StatusProject-BETA-green.svg)](https://shields.io/) [![1.0.1!](https://img.shields.io/badge/Version-NONE-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
