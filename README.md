@@ -1,6 +1,6 @@
 <div align="center">
 
-# NEXT JS - SPENDING - (In Development)
+# NEXT JS - SPENDING - (In Development) - 26/09/2024
 
 [![Generic badge](https://img.shields.io/badge/StatusProject-BETA-green.svg)](https://shields.io/) [![1.0.1!](https://img.shields.io/badge/Version-NONE-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
@@ -52,7 +52,7 @@
 
 
 ---
-- CHức năng chính
+- Chức năng chính
  + Gửi mail khi đến tháng so sánh chi tiêu tháng này có gì khác với tháng trước
  + Nếu là lần đầu thì gửi chi tiêu tổng tháng
 
@@ -60,4 +60,3 @@
 + Thêm liên tục 
 + Thêm từ từ 
 + Thêm chức năng scan bằng camera cho hóa đơn và in ra
-  
