@@ -24,7 +24,7 @@
 - Xóa chi tiêu
 
 - Import chi tiêu từ các file json
-- Exprot chi têu ra các file json hoặc in đẹp ra .txt
+- Exprot chi tiêu ra các file json hoặc in đẹp ra .txt
 
 - Có các biểu đồ cột và tròn
 - Biểu đố tiêu dùng trong năm
